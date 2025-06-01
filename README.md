@@ -51,5 +51,6 @@ Regularly check the dashboard to review your productivity trends.
 Customize website categories to tailor the analytics to your workflow.
 Use the weekly reports to set goals and improve your browsing habits.
 
-OUTPUT
+#OUTPUT
+
 ![image](https://github.com/user-attachments/assets/da2508fc-4053-4255-82a2-a00d596c6a77)
